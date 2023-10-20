@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/yash113](https://linktr.ee/yash113)
-
 - 💬 Ask me about **ReactJS,TailwindCSS**
 
 - 📫 How to reach me **yashpatel.tech@gmail.com**
