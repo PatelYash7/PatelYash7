@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyash7&label=Profile%20views&color=0e75b6&style=flat" alt="patelyash7" /> </p>
 
-- 🌱 I’m currently learning **NextJS and GraphQL**
+- 🌱 I’m currently learning **NextJS and Typescript**
 
 - 💬 Ask me about **Java,Javascript,ReactJS,TailwindCSS,Data Structure**
 
