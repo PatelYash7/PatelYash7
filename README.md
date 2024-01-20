@@ -6,13 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyash7&label=Profile%20views&color=0e75b6&style=flat" alt="patelyash7" /> </p>
 
-- 🌱 I’m currently learning **NextJS and Typescript**
+- 🌱 I’m currently learning **NextJS,Tailwind**
 
 - 💬 Ask me about **Java,Javascript,ReactJS,TailwindCSS,Data Structure**
 
 - 📫 How to reach me **yashpatel.tech@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OeaWSBD0K97p9FdGxsQ0lPqlXG8okI5U/view?usp=sharing](https://drive.google.com/file/d/1OeaWSBD0K97p9FdGxsQ0lPqlXG8okI5U/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
