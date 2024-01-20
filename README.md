@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yash Patel</h1>
 <h3 align="center">A passionate frontend Web developer from India.</h3>
 <p align="center"> Bridging the gap between Design and Functionality.</p>
-<img align="right" alt="Coding" width="400"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyash7&label=Profile%20views&color=0e75b6&style=flat" alt="patelyash7" /> </p>
 
