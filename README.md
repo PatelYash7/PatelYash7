@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyash7&label=Profile%20views&color=0e75b6&style=flat" alt="patelyash7" /> </p>
 
-- 🌱 I’m currently learning **NextJS,Tailwind**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Java,Javascript,ReactJS,TailwindCSS,Data Structure**
+- 💬 Ask me about **Java,Javascript,ReactJS,TailwindCSS,ExpressJS,Mongoose,MongoDB,Firebase,Data Structure**
 
 - 📫 How to reach me **yashpatel.tech@gmail.com**
 
