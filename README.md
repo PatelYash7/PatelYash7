@@ -8,9 +8,33 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **Java,Javascript,ReactJS,TailwindCSS,ExpressJS,Mongoose,MongoDB,Firebase,Data Structure**
-
 - 📫 How to reach me **yashpatel.tech@gmail.com**
+
+
+## Technologies & Framework
+ 
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+  <td><strong>Database</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,next" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
+    <td><img src = "https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=docker,netlify,vercel,cloudflare&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github&theme=dark"></td>
+</tr>
+</table>
+
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
