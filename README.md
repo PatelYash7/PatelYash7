@@ -45,6 +45,6 @@
 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=PatelYash7&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=PatelYash7&theme=midnight-purple" >
 <img src="https://streak-stats.demolab.com/?user=PatelYash7&theme=holi-theme">
 </p>
