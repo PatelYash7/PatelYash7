@@ -20,7 +20,7 @@
   <td><strong>Database</strong></td>
 </tr>
 <tr>
-		<td><img src = "https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,next" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=js,ts,react,tailwind,nodejs,express,next,electron" ></td>
 		<td><img src = "https://skillicons.dev/icons?i=java,c&theme=dark"></td>
     <td><img src = "https://skillicons.dev/icons?i=mongodb,postgres,prisma,firebase&theme=dark"></td>
 </tr>
