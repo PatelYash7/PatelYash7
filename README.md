@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patelyash7&label=Profile%20views&color=0e75b6&style=flat" alt="patelyash7" /> </p>
 
-- 🌱 I’m currently learning **ElectronJS**
-
-- 📫 How to reach me **yashpatel.tech@gmail.com**
+**yashpatel.tech@gmail.com**
 
 
 ## Technologies & Framework
@@ -46,5 +44,5 @@
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
 <img src="https://github-readme-stats.vercel.app/api?username=PatelYash7&theme=midnight-purple" >
-<img src="https://streak-stats.demolab.com/?user=PatelYash7&theme=holi-theme">
+<!-- <img src="https://streak-stats.demolab.com/?user=PatelYash7&theme=holi-theme"> -->
 </p>
